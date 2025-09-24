@@ -1,0 +1,44 @@
+[
+    {
+        "field": "test1",
+        "headerName": "имя1",
+        "sortable": false
+    },
+    {
+        "field": "test2",
+        "headerName": "имя2",
+        "filter": false
+    },
+    {
+        "field": "test3",
+        "headerName": "имя3",
+        "enableRowGroup": false
+    },
+    {
+        "field": "test4",
+        "headerName": "имя4",
+        "resizable": false
+    },
+    {
+        "field": "test5",
+        "headerName": "имя5",
+        "cellDataType": "number",
+        "editable": true
+    },
+    {
+        "field": "test6",
+        "headerName": "имя6",
+        "cellDataType": "boolean",
+        "editable": true
+    },
+    {
+        "field": "test7",
+        "headerName": "имя7",
+        "editable": true
+    },
+    {
+        "field": "test8",
+        "headerName": "имя8",
+        "editable": true
+    }
+]
